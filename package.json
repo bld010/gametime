@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bld010/game-time.git"
+    "url": "git+http://github.com/bld010/gametime.git"
   },
   "author": "Turing School of Software and Design",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/turingschool-examples/gametime-starter/issues"
   },
-  "homepage": "https://bld010.github.io/game-time",
+  "homepage": "http://bld010.github.io/gametime",
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-spies": "^1.0.0",
